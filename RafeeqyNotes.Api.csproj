@@ -14,7 +14,7 @@
       (or packed to NuGet) rather than copy-pasted. Everything product-specific about buying an
       add-on stays here, in AddOnPurchaseService.
     -->
-    <ProjectReference Include="..\..\Hxl.Payments\Hxl.Payments.csproj" />
+    <ProjectReference Include="..\..\Coon.Payment\Coon.Payment.csproj" />
   </ItemGroup>
 
   <ItemGroup>
